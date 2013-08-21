@@ -405,6 +405,9 @@
     <ClCompile Include="..\Shared\Scripting\CScriptArgument.cpp">
       <Filter>Source Files\Shared\Scripting</Filter>
     </ClCompile>
+    <ClCompile Include="..\Shared\Scripting\Natives\CMathNatives.cpp">
+      <Filter>Header Files\Shared\Scripting\Natives</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CServer.h">
